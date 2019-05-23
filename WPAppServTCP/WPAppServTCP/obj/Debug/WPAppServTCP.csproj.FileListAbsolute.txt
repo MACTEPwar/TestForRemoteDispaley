@@ -1,0 +1,10 @@
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\bin\Debug\WPAppServTCP.exe.config
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\bin\Debug\WPAppServTCP.exe
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\bin\Debug\WPAppServTCP.pdb
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\obj\Debug\WPAppServTCP.csprojAssemblyReference.cache
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\obj\Debug\WPAppServTCP.Form1.resources
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\obj\Debug\WPAppServTCP.Properties.Resources.resources
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\obj\Debug\WPAppServTCP.csproj.GenerateResource.cache
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\obj\Debug\WPAppServTCP.csproj.CoreCompileInputs.cache
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\obj\Debug\WPAppServTCP.exe
+C:\Users\v.shebanits\source\repos\WPAppServTCP\WPAppServTCP\obj\Debug\WPAppServTCP.pdb

@@ -1,0 +1,10 @@
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\bin\Debug\WFApp.exe.config
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\bin\Debug\WFApp.exe
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\bin\Debug\WFApp.pdb
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\obj\Debug\WFApp.csprojAssemblyReference.cache
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\obj\Debug\WFApp.Form1.resources
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\obj\Debug\WFApp.Properties.Resources.resources
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\obj\Debug\WFApp.csproj.GenerateResource.cache
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\obj\Debug\WFApp.csproj.CoreCompileInputs.cache
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\obj\Debug\WFApp.exe
+C:\Users\v.shebanits\source\repos\WFApp\WFApp\obj\Debug\WFApp.pdb
